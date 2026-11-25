@@ -1,0 +1,14 @@
+{
+  "name": "Metronome by Audomi",
+  "url": "https://apps.apple.com/app/id6820653905",
+  "platforms": ["iOS", "iPadOS", "watchOS"],
+  "category": "audio-video",
+  "description": "A metronome you can see, hear and feel, now on Apple Watch. Pay once: no ads, no subscription, no account.",
+  "discount": "40% off",
+  "prices": [{ "plan": "One-time purchase", "before": 4.99, "after": 2.99 }],
+  "terms": "No code needed; the App Store price drops automatically.",
+  "starts": "2026-11-27",
+  "ends": "2026-12-01",
+  "maker": "Audomi",
+  "makerUrl": "https://audomi.app"
+}
